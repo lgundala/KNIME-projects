@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+  <met:element form="text" name="Author">wiswedel</met:element>
+  <met:element form="date" name="Creation Date">25/8/2013/15:53:44 +02:00</met:element>
+  <met:element form="multiline" name="Comments">Reading multiple files using loops
+
+This workflow demonstrates how to read multiple files using a loop.</met:element>
+  <met:element form="text" name="Last Uploaded" read-only="true">2017-07-17 12:33:30 +0200</met:element>
+  <met:element form="text" name="Last Edited" read-only="true">2016-03-22 18:19:37 +0100</met:element>
+</met:KNIMEMetaInfo>
